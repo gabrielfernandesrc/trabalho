@@ -38,6 +38,45 @@
         </div>
     
     </div>
+    <div id="divider"></div>
+    
+
+        <div id="home">
+
+            <div class="content">
+
+                <h1>São Paulo</h1>
+
+                <br>
+
+                <h2>São Paulo é o estado mais <span>econômico</span> do <span>Brasil</span></h2>
+                
+                <ul>
+
+                    <li>O estado de São Paulo é, portanto, um pilar fundamental da economia brasileira, com um impacto profundo em todas as áreas econômicas e uma influência significativa no desenvolvimento do país como um todo.</li></a> 
+               
+                </ul>
+
+                <br>
+                
+                <h2>Principais atividades econômicas</h2>
+
+                <ul type="square">
+                    <li>Industrias</li>
+                    <li>Agronegócio</li>
+                    <li>setor de serviços</li>
+            
+                </ul>
+            </div>
+
+            <div class="home-img">
+
+                <img src="./images/SãoPaulo.png">
+
+            </div>
+            
+
+        </div>
 </body>
 </html>
 
