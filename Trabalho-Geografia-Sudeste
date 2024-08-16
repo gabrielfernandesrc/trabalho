@@ -20,7 +20,7 @@
     <div id="home">
         <div class="content">
             <h1>Sudeste</h1>
-            <h2>Maior econômia do <span>Brasil</span></h2>
+            <h2>Maior econômia do <span class="brasil">Brasil</span></h2>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
             
             <div class="menu">
@@ -49,7 +49,7 @@
 
                 <br>
 
-                <h2>São Paulo é o estado mais <span>econômico</span> do <span>Brasil</span></h2>
+                <h2>São Paulo é o estado <span>mais</span> <span>econômico</span> do <span class="brasil">Brasil</span></h2>
                 
                 <ul>
 
@@ -71,7 +71,7 @@
 
             <div class="home-img">
 
-                <img src="./images/SãoPaulo.png">
+                <img class="sãopaulo-img"src="./images/SãoPaulo.png">
 
             </div>
             
@@ -80,8 +80,8 @@
 </body>
 </html>
 
----CSS---
 
+---CSS---
 
 *{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -135,10 +135,14 @@
     width: 90%;
     font-size: 18px;
     text-align: justify;
+    margin-top: 15px;
+}
+#home span.brasil{
+    color: rgb(255, 112, 3);
+    font-size: larger;
 }
 #home span{
     color: rgb(255, 112, 3);
-    font-size: larger;
 }
 #home li{
     color: black;
@@ -149,6 +153,9 @@
     text-decoration-color: orangered;
 }
 #divider{
-    height: 150px;
+    height: 70px;
     background-color: rgb(36, 32, 32);
+}
+.sãopaulo-img {
+    margin-top: 170px;
 }
