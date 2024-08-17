@@ -77,6 +77,45 @@
             
 
         </div>
+ <div id="divider"></div>
+    
+
+        <div id="home">
+
+            <div class="content">
+
+                <h1>Espírito Santo</h1>
+
+                <br>
+
+                <h2>A economia do Espírito Santo é bastante <span>sólida</span>, destacando-se o <span>setor de serviços</span> e <span>industrial</span> como as principais atividades econômicas.</h2>
+                
+                <ul>
+
+                    <li>O Espírito Santo é vital para a economia brasileira, com destaque para a produção de petróleo e gás, além da agricultura e exportação de café. Seu porto de Vitória também é um importante canal para o comércio exterior, contribuindo significativamente para o PIB nacional.</li></a> 
+               
+                </ul>
+
+                <br>
+                
+                <h2>Principais atividades econômicas</h2>
+
+                <ul type="square">
+                    <li>Serviços: 56,3%</li>
+                    <li>Indústria: 34,5%</li>
+                    <li>Agropecuária: 9,3%</li>
+            
+                </ul>
+            </div>
+
+            <div class="home-img">
+
+                <img class="sãopaulo-img" src="./images/esmapa.png">
+
+            </div>
+            
+
+        </div>
 </body>
 </html>
 
