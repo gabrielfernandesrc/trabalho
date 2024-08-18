@@ -158,7 +158,44 @@
                 <img class="es-img" src="./images/esmapa.png">
 
             </div>
+            <div id="divider"></div>
+    
+
+        <div id="home">
+
+            <div class="content">
+
+                <h1>Rio de Janeiro</h1>
+                <hr>
+
+                <br>
+
+                <h2>O Rio de Janeiro é a cidade com o segundo maior PIB no Brasil, totalizando 331,3 bilhões de Reais em 2020, segundo dados do IBGE,- o que representou 43,95% de todo o PIB do Estado do Rio de Janeiro, e 4,48% do PIB nacional no mesmo período.</h2>
+                
+                <ul>
+
+                    <li>O Estado do <spam>Rio de Janeiro</spam> ocupa o lugar de segunda maior economia do Brasil. Para isso conta com um parque industrial e principalmente a indústria do turismo, uma vez que a capital do Estado é reconhecida como “a cidade maravilhosa” e é conhecida internacionalmente.</li 
+               
+                </ul>
+
+                <br>
+                
+                <h2>Principais atividades econômicas</h2>
+
+                <ul type="square">
+                    <li>Petróleo: 44,8%</li>
+                    <li>Combustíveis: 17,5%</li>
+                    <li class="base">Siderúrgicos: 13%</li>
             
+                </ul>
+            </div>
+
+            <div class="home-img">
+
+                <img class="es-img" src="./images/Mapa_RJ_1990.png">
+
+            </div>
+
 
         </div>
     </body>
