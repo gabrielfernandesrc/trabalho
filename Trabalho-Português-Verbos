@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./style.css" rel="stylesheet">
+    <title>Classificação-Dos-Verbos</title>
+</head>
+<body>
+    
+    <div class="divider"></div>
+    
+    <div id="menu">
+        <nav>
+            <a href="#">Regulares</a>
+            <a href="#">Irregulares</a>
+            <a href="#">Defectivos</a>
+            <a href="#">Anômalos</a>
+            <a href="#">Abundantes</a>
+        </nav>
+    </div>
+    
+    <div id="capa">
+
+        <div class="title">
+            <h1>Classificação dos <span>Verbos</span></h1>
+            <h3>Eduardo Gomes, Rafael Campos, Gabriel Rodrigues, <br> Caio Faria e Gabriel Fuzaro</h3>
+        </div>
+   
+    <div class="capa-img">
+        <img src="./images/Livro-capa.png">
+    </div>
+        
+    </div>
+    
+    <div class="divider"></div>
+
+</body>
+</html>
+
+----CSS----
+
+*{
+    /* border: solid 2px red; */
+    background-color: rgb(48, 44, 44);
+    color: white;
+}
+.divider{
+    height: 50px;
+    background-color: black;
+}
+#menu{
+    margin-bottom: 50px;
+    background-color: rgb(48, 44, 44);
+}
+#menu nav{
+    display: flex;
+    justify-content: flex-start;
+    gap: 100px;
+    margin-left: 100px;
+}
+#menu nav a{
+    font-size: 25px;
+    margin-top: 10px;
+    border: solid 2px rgb(8, 139, 246);
+    color: rgb(8, 139, 246);
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+#menu nav a:hover{
+    background-color: rgb(8, 139, 246);
+    transition: all ease-in-out .7s;
+    color: white;
+}
+#capa{
+    display: flex;
+    background-color: rgb(48, 44, 44);
+}
+#capa h1{
+    font-size: 80px;
+}
+#capa span{
+    color: rgb(8, 139, 246);
+}
+#capa h3{
+    color: rgb(198, 197, 197);
+}
+.title{
+    margin-left: 100px;
+}
+.capa-img img{
+    margin-top: 50px;
+}
