@@ -22,7 +22,9 @@
             <h1>Sudeste</h1>
             <hr>
             <h2>Maior econômia do <span class="brasil">Brasil</span></h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+            <p>A economia da Região Sudeste é movida pela produção industrial e agrícola, e os setores do comércio e serviços, especialmente o turismo.
+
+                O Sudeste é a Região mais rica do País, concentrando 55,4% do PIB (Produto Interno Bruto) nacional.</p>
             
             <div class="menu">
                 <ul>
