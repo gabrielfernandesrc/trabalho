@@ -41,9 +41,10 @@
 ----CSS----
 
 *{
-    /* border: solid 2px red; */
+     /*border: solid 2px red;*/
     background-color: rgb(48, 44, 44);
     color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .divider{
     height: 50px;
@@ -91,4 +92,63 @@
 }
 .capa-img img{
     margin-top: 50px;
+}
+
+/* ---VERBOS---*/
+
+#home{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 60px;
+}
+#home h1{
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+#home p{
+    margin-top: 0;
+    font-size: 18px;
+    text-align: justify;
+}
+#home h2{
+    font-size: 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(8, 139, 246);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#home span{
+    color: rgb(8, 139, 246);
+    font-weight: 700;
+}
+#home ul li{
+    font-size: 20px;
+    margin-top: 0;
+}
+#home button.voltar-btn{
+    border: solid 2px rgb(8, 139, 246);
+    padding: 15px;
+    color: rgb(8, 139, 246);
+    background-color: rgb(48, 44, 44);
+    font-size: 15px;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+#home button.voltar-btn:hover{
+    border-color: rgb(8, 139, 246);
+    color: white;
+    background-color: rgb(8, 139, 246);
+    transition: all ease-in-out .7s;
+    cursor: pointer;
+}
+#home .home-img img{
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-right: 50px;
+    width: 600px;
+}
+#home hr{
+    margin-top: 0;
+    margin-bottom: 20px;
 }
