@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abundantes</title>
+    <link href="./style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="divider"></div>
+    <div id="home">
+        
+        <div class="content">
+            <h1>Verbos <span>Anômalos</span></h1>
+            <hr>
+            <p>Os verbos anômalos são verbos irregulares que, além de apresentarem conjugação diferente da regular, apresentam radicais diferentes de acordo com a conjugação. Os verbos “ser” e “ir” são os principais exemplos de verbos anômalos.</p>
+       
+        <div class="example">
+            <h2>Exemplos</h2>
+            <ul>
+                <li>Caber (caibo/cabe/coube).</li>
+                <li>Dizer (digo, diz, disse, direi).</li>
+                <li>Ouvir (ouço, ouve).</li>
+            </ul>   
+        </div>
+      
+            <a href="./index.html"><button class="voltar-btn anômalos-btn">Voltar</button></a>
+       
+        </div>
+
+        <div class="home-img">
+            <img src="./images/tabela-anômalos.jpg">
+        </div>
+
+    </div>
+    <div class="divider"></div>
+</body>
+</html>
