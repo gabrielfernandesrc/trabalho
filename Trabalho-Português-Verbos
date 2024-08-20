@@ -50,6 +50,9 @@
     height: 50px;
     background-color: black;
 }
+.divider-capa{
+    margin-top: 100px;
+}
 #menu{
     margin-bottom: 50px;
     background-color: rgb(48, 44, 44);
@@ -131,7 +134,7 @@
     color: rgb(8, 139, 246);
     background-color: rgb(48, 44, 44);
     font-size: 15px;
-    margin-top: 10px;
+    margin-top: 100px;
     border-radius: 20px;
     margin-bottom: 20px;
 }
@@ -145,10 +148,37 @@
 #home .home-img img{
     margin-top: 80px;
     margin-left: 30px;
-    margin-right: 50px;
+    margin-right: 30px;
     width: 600px;
 }
 #home hr{
     margin-top: 0;
     margin-bottom: 20px;
 }
+#home button.anômalos-btn{
+    margin-top: 100px;
+}
+#home img.irregulares-img{
+    height: 350px;
+    width: 600px;
+}
+#home button.defectivos-btn{
+    margin-top: 140px;
+}
+#home .defectivos-exemplos{
+    margin-top: 80px;
+}
+#home img.defectivos-img{
+    height: 300px;
+    width: 300px;
+}
+#home button.irregulares-btn{
+    margin-top: 130px;
+}
+#home .irregulares-example{
+    margin-top: 90px;
+}
+#home .anômalos-example{
+    margin-top: 90px;
+}
+
