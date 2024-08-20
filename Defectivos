@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abundantes</title>
+    <link href="./style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="divider"></div>
+    <div id="home">
+        
+        <div class="content">
+            <h1>Verbos <span>Defectivos</span></h1>
+            <hr>
+            <p>Verbos defectivos são aqueles que possuem conjugação incompleta, ou seja, não se conjugam em todos os modos, tempos e pessoas.</p>
+       
+        <div class="example">
+            <h2 class="defectivos-exemplos">Exemplos</h2>
+            <ul>
+                <li>Abolir</li>
+                <li>Colorir</li>
+                <li>Falir</li>
+            </ul>   
+        </div>
+      
+            <a href="./index.html"><button class="voltar-btn defectivos-btn">Voltar</button></a>
+       
+        </div>
+
+        <div class="home-img">
+            <img class="defectivos-img" src="./images/tabela-defectivos.jpg">
+        </div>
+
+    </div>
+    <div class="divider"></div>
+</body>
+</html>
