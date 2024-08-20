@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abundantes</title>
+    <link href="./style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="divider"></div>
+    <div id="home">
+        
+        <div class="content">
+            <h1>Verbos <span>Irregulares</span></h1>
+            <hr>
+            <p>Os verbos irregulares são verbos que não seguem um padrão de conjugação e podem ter alterações no radical.</p>
+       
+        <div class="example">
+            <h2>Exemplos</h2>
+            <ul>
+                <li>Primeira Conjugação --- Estar</li>
+                <li>Segunda Conjugação --- Dizer</li>
+                <li>Terceira Conjugação --- Ouvir</li>
+            </ul>   
+        </div>
+      
+            <a href="./index.html"><button class="voltar-btn">Voltar</button></a>
+       
+        </div>
+
+        <div class="home-img">
+            <img class="irregulares-img" src="./images/tabela-irregulares.jpg">
+        </div>
+
+    </div>
+    <div class="divider"></div>
+</body>
+</html>
