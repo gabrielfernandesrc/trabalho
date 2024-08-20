@@ -12,11 +12,11 @@
     
     <div id="menu">
         <nav>
-            <a href="#">Regulares</a>
-            <a href="#">Irregulares</a>
-            <a href="#">Defectivos</a>
-            <a href="#">Anômalos</a>
-            <a href="#">Abundantes</a>
+            <a href="./Regulares.html">Regulares</a>
+            <a href="./Irregulares.html">Irregulares</a>
+            <a href="./Defectivos.html">Defectivos</a>
+            <a href="./Anômalos.html">Anômalos</a>
+            <a href="./abundantes.html">Abundantes</a>
         </nav>
     </div>
     
